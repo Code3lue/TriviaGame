@@ -1,0 +1,15 @@
+.jumbo {
+	background-image: url('../images/baconwallpaper.jpg');
+}
+
+body {
+	background: #c6474d;
+}
+
+.bacon {
+	font-color: yellow;
+}
+.data {
+	display: none;
+}
+
